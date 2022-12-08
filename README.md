@@ -24,11 +24,11 @@
 * WHEN I deploy to Heroku
 * THEN I should have proper build scripts for a webpack application
 
-# Built With
 
-
-# Installation
 
 # Demo
+coming soon!
 
 # Deployed link
+https://francisca-hernandez.github.io/text-editor/
+
